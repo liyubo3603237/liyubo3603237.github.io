@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity on liyubo | Blog</title>
+    <link>https://liyubo3603237.github.io/categories/unity/</link>
+    <description>Recent content in Unity on liyubo | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2019 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://liyubo3603237.github.io/categories/unity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unity2019 Gradle 无法编译的问题</title>
+      <link>https://liyubo3603237.github.io/unity_android_gradle_setting/</link>
+      <pubDate>Fri, 29 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://liyubo3603237.github.io/unity_android_gradle_setting/</guid>
+      <description>新的Unity版本已经去掉Andorid Internal编译方式了。现在只能使用Gradle. 蛋疼的是Gradle编译脚本依赖的仓库（google, jcenter）国内被墙或者是openssl证书的问题，反正我是编译报错。万幸万幸万幸，我们有阿里云的镜像仓库
+ 解决方案: 找到unity gradle模板文件，比我的电脑上是
+C:\unity\2019.2.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\GradleTemplates\mainTemplate.gradle修改如下</description>
+    </item>
+    
+  </channel>
+</rss>
