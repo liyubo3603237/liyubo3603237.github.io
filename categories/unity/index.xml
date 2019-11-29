@@ -17,7 +17,7 @@
       <pubDate>Fri, 29 Nov 2019 05:00:00 +0000</pubDate>
       
       <guid>https://liyubo3603237.github.io/unity_android_gradle_setting/</guid>
-      <description>新的Unity版本已经去掉Andorid Internal编译方式了。现在只能使用Gradle. 蛋疼的是Gradle编译脚本依赖的仓库（google, jcenter）国内被墙或者是openssl证书的问题，反正我是编译报错。万幸万幸万幸，我们有阿里云的镜像仓库
+      <description>新的Unity版本已经去掉Android Internal编译方式了。现在只能使用Gradle. 蛋疼的是Gradle编译脚本依赖的仓库（google, jcenter）国内被墙或者是openssl证书的问题，反正我是编译报错。万幸万幸万幸，我们有阿里云的镜像仓库
  解决方案: 找到unity gradle模板文件，比我的电脑上是
 C:\unity\2019.2.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\GradleTemplates\mainTemplate.gradle修改如下</description>
     </item>
