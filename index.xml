@@ -35,6 +35,18 @@ C:\unity\2019.2.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\GradleTemp
     </item>
     
     <item>
+      <title>新版Unity集成bugly遇到的坑</title>
+      <link>https://liyubo3603237.github.io/unity_android_bugly_integrate/</link>
+      <pubDate>Fri, 29 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://liyubo3603237.github.io/unity_android_bugly_integrate/</guid>
+      <description>Bugly官网上似乎好久没更新unitypackage了。 按照官方文档集成一步一步做下来以后发现bugly上并没有收到上报.
+WTF!!!!
+咋回事儿呢？ 翻log。 看到一行报错
+java.io.IOException: Cleartext HTTP traffic to android.</description>
+    </item>
+    
+    <item>
       <title>John Doe</title>
       <link>https://liyubo3603237.github.io/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
