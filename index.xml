@@ -17,7 +17,7 @@
       <pubDate>Fri, 29 Nov 2019 05:00:00 +0000</pubDate>
       
       <guid>https://liyubo3603237.github.io/unity_android_manifest/</guid>
-      <description>unity gradle编译安卓版本时会自动合成AndroidManifest.xml文件，合成后的结果可以在项目的Temp\gradleOut\src\main中找到。
+      <description>unity gradle编译安卓版本时会自动合成AndroidManifest.xml文件，合成后的结果可以在项目的Temp\StagingArea中找到。
 那么是由那些文件合成的呢?
 1.unity 的template 比如在我的电脑上是
 C:\unity\2019.2.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\Apk\AndroidManifest.xmlplugin\android根目录  \Assets\Plugins\Android\AndroidManifest.</description>
